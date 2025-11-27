@@ -4,23 +4,12 @@ ParqueateCerca es una aplicación web diseñada para facilitar la gestión, bús
 
 El proyecto está desarrollado en Python con Django y utiliza MySQL como base de datos principal
 
-# Objetivo del Proyecto
+# Objetivos del Proyecto
 
-Desarrollar un sistema de información moderno y eficiente que permita:
+## Objetivo general
+Desarrollar una aplicación web y móvil que indique la localización y la disponibilidad en 
+tiempo real de los parqueaderos en la ciudad de Valledupar.
 
-Registrar usuarios y vehículos (carro, moto y bicicleta).
-
-Gestionar parqueaderos disponibles en un mapa.
-
-Generar tickets de ingreso con código QR.
-
-Escanear el QR en la salida para actualizar la disponibilidad.
-
-Registrar en una base de datos los ingresos y salidas de vehículos.
-
-Permitir calificar los parqueaderos utilizados.
-
-El propósito es digitalizar y optimizar los procesos de control y administración de parqueaderos urbanos.
 
 # Tecnologías Utilizadas
 
